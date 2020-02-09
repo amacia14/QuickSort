@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3e388fa-1dc4-4eaf-b348-42e1b616a8bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XDeA5lBrbv2JMZxjVHb8ybygFN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="CsvParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CsvParser" />
+      <module name="QuickSort Analysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HoarSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HoarSort" />
+      <module name="QuickSort Analysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSort" />
+      <module name="QuickSort Analysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Timer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timer" />
+      <module name="QuickSort Analysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimerTest" />
+      <module name="QuickSort Analysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.Timer" />
+        <item itemvalue="Application.HoarSort" />
+        <item itemvalue="Application.TimerTest" />
+        <item itemvalue="Application.CsvParser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3e388fa-1dc4-4eaf-b348-42e1b616a8bd" name="Default Changelist" comment="" />
+      <created>1580584945244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580584945244</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="632" y="77" key="#CsvParser" timestamp="1580590001875">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="632" y="77" key="#CsvParser/0.0.1280.800@0.0.1280.800" timestamp="1580590001875" />
+    <state x="240" y="65" key="#Project_Structure" timestamp="1580584969918">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1580584969918" />
+    <state x="370" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580589413993">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="370" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1580589413993" />
+    <state width="1238" height="144" key="GridCell.Tab.0.bottom" timestamp="1581206004144">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1115" height="216" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1580787629569" />
+    <state width="1238" height="144" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1581206004144" />
+    <state width="1238" height="137" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1581180307811" />
+    <state width="1238" height="144" key="GridCell.Tab.0.center" timestamp="1581206004142">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1115" height="216" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1580787629566" />
+    <state width="1238" height="144" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1581206004142" />
+    <state width="1238" height="137" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1581180307810" />
+    <state width="1238" height="144" key="GridCell.Tab.0.left" timestamp="1581206004141">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1115" height="216" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1580787629565" />
+    <state width="1238" height="144" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1581206004141" />
+    <state width="1238" height="137" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1581180307810" />
+    <state width="1238" height="144" key="GridCell.Tab.0.right" timestamp="1581206004143">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1115" height="216" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1580787629568" />
+    <state width="1238" height="144" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1581206004143" />
+    <state width="1238" height="137" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1581180307811" />
+    <state x="185" y="62" key="SettingsEditor" timestamp="1580585373230">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="185" y="62" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1580585373230" />
+    <state x="317" y="248" key="com.intellij.ide.util.TipDialog" timestamp="1581180410693">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="-1487" y="139" key="com.intellij.ide.util.TipDialog/0.0.1280.800/-1920.-125.1920.1080@0.0.1280.800" timestamp="1580667524424" />
+    <state x="317" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1580943978241" />
+    <state x="317" y="248" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1581180410693" />
+    <state x="-1234" y="316" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580672279683">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="-1234" y="316" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.800/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1580672279683" />
+    <state x="-1897" y="740" width="1008" height="214" key="search.everywhere.popup" timestamp="1581282995942">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="15" y="641" width="672" height="158" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1581201427027" />
+    <state x="-1897" y="740" width="1008" height="214" key="search.everywhere.popup/0.23.1280.777/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1581282995942" />
+  </component>
+</project>
